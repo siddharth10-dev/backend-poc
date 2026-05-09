@@ -9,3 +9,6 @@ This repository contains isolated backend microservices and system design implem
 
 2. [**Ticketmaster**](./ticketmaster)
    - A FastAPI-based ticketing system featuring seat locking, timed reservations (TTL), and race condition prevention for high-concurrency event bookings.
+
+3. [**Realtime WebSocket Chat PoC**](./websocket-poc)
+   - A FastAPI-based real-time chat backend demonstrating persistent WebSocket connections, asynchronous message broadcasting, active connection management, and disconnect handling for multi-client communication systems.
