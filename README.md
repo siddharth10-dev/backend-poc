@@ -12,3 +12,7 @@ This repository contains isolated backend microservices and system design implem
 
 3. [**Realtime WebSocket Chat PoC**](./websocket-poc)
    - A FastAPI-based real-time chat backend demonstrating persistent WebSocket connections, asynchronous message broadcasting, active connection management, and disconnect handling for multi-client communication systems.
+  
+4. 4. [**Authentication & JWT PoC**](./authentication)
+   - A secure authentication system demonstrating password hashing (Bcrypt), JWT token generation, and protected route middleware for stateless user sessions.
+
