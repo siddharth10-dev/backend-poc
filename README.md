@@ -16,3 +16,6 @@ This repository contains isolated backend microservices and system design implem
 4. [**Authentication & JWT PoC**](./authentication)
    - A secure authentication system demonstrating password hashing (Bcrypt), JWT token generation, and protected route middleware for stateless user sessions.
 
+5. [**Task Manager PoC**](./task-manager)
+   - A FastAPI-based task management system demonstrating standard CRUD operations, Pydantic data validation, and asynchronous endpoint handling.
+
